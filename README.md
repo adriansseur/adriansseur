@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+Resources I've been using to build this site:
+- guide to connect domain name to Github Pages: https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58
+-->
